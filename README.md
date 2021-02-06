@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**MohamedImouchane/MohamedImouchane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://www.canva.com/design/DAEVUEDMeq8/fMXt1GF8s-u_nE7yNqtIrQ/edit">
 
-Here are some ideas to get you started:
+## Mohamed Imouchane
+Inspring and Self-Learning Front-End Developer. I enjoy learning new languages and cultures too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+* HMTL
+* CSS
+* JavaScript ( Working on...)
+* Line Command
+
+## About me
+ 
+
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning basics of JavaScript and tips about CSS
+- 👯 I’m looking to collaborate on projects
+- 😄 Pronouns: Mohamed
+- ⚡ Fun fact: I like hiking, bivouac shelter, read, learn languages and cooking
+
+
+## Contact
+
+* <a href="https://twitter.com/MohamedImoucha1">Twitter</a>
+* <a href="https://codepen.io/mohamedimouchane">Code Pen</a>
+* <a href="https://www.linkedin.com/in/mohamed-imouchane/">Linkedin</a>
+
+## Content
+
+Tribute Page of Emir Abdelkader 
+Click Here (https://codepen.io/mohamedimouchane/pen/rNeXrVW)
+
+Travel Survey Questions Form
+Click Here (https://codepen.io/mohamedimouchane/pen/yLOmpWG)
