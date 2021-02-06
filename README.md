@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://www.canva.com/design/DAEVUEDMeq8/fMXt1GF8s-u_nE7yNqtIrQ/edit" width=300>
+<img src="" >
 
 ## Mohamed Imouchane
 Inspring and Self-Learning Front-End Developer. I enjoy learning new languages and cultures too.
