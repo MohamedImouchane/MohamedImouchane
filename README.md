@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github.com/MohamedImouchane/MohamedImouchane/blob/main/Simple%20Work%20LinkedIn%20Banner.png" height= 300>
 
 ## Mohamed Imouchane
-Inspring and Self-Learning Front-End Developer. I enjoy learning new languages and cultures too.
+Aspring and Self-Learning Front-End Developer. I enjoy learning new languages and cultures too.
 
 ## Skills
 * HMTL
