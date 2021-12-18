@@ -2,7 +2,7 @@
 
 
 ## Mohamed Imouchane
-Aspring and Self-Learning Front-End Developer. I enjoy learning new languages and cultures too.
+An aspring and Self-Learning Front-End Developer. I enjoy learning new languages and cultures too.
 
 ## Skills
 * HMTL
